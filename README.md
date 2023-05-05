@@ -69,5 +69,6 @@
   - [ ] 현금을 충전하고 해당 현금이 거래 간에 정상적으로 이동할 수 있도록 합니다.
   
 ## 📑 ERD
-![ERD of ZeroMarket](https://user-images.githubusercontent.com/61614348/236486575-e464a09a-7934-40e8-806e-1bc9f5d28980.png)
+![ERD of ZeroMarket](https://user-images.githubusercontent.com/61614348/236487318-0763ea37-4f67-49c7-b762-60e345d64456.png)
+
 
