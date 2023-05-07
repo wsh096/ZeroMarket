@@ -15,7 +15,7 @@
 |`Java 11`|`Spring(2.7.10)`|`SpringBoot`|
 |`Docker`|`MariaDB`|`MyBatis`|
 |`Redis`|`H2`|`KaKao Map API`|
-
+|`S3`|||
  ### :pushpin: 활용 라이브러리 
  |라이브러리명|라이브러리명|라이브러리명|
 |------|---|---|
@@ -69,6 +69,6 @@
   - [ ] 현금을 충전하고 해당 현금이 거래 간에 정상적으로 이동할 수 있도록 합니다.
   
 ## 📑 ERD
-![ERD of ZeroMarket](https://user-images.githubusercontent.com/61614348/236487318-0763ea37-4f67-49c7-b762-60e345d64456.png)
+![image](https://user-images.githubusercontent.com/61614348/236682705-a2be6d58-7561-4ff9-802f-06e4affe99cf.png)
 
 
